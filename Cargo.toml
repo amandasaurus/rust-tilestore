@@ -1,0 +1,11 @@
+[package]
+name = "tilestore"
+version = "0.1.0"
+authors = ["Rory McCann <rory@technomancy.org>"]
+
+[dependencies]
+failure = "0.1.2"
+byteorder = "1.2.4"
+log = "0.4.3"
+rusqlite = "0.15.0"
+serde_json = "1.0"
